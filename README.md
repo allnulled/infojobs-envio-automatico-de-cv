@@ -20,7 +20,7 @@ Hecho esto, cuando entres en Infojobs, el `Greasemonkey` se encargará de ejecut
 
 Esta es la bandeja de entrada del Gmail después de 2 horas de envío de CVs:
 
-[!Currículums enviados a Infojobs vistos desde Gmail](Infojobs-fundido-en-cosa-de-2-horas.png)
+[!Currículums enviados a Infojobs vistos desde Gmail](./Infojobs-fundido-en-cosa-de-2-horas.png)
 
 También hice un vídeo, de unos 45 minutos aproximadamente. Si Github lo acepta *(ocupa 110MB)*, está en `infojobs-envio-cv-masivo.mp4`.
 
