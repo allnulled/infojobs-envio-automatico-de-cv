@@ -24,7 +24,7 @@ Esta es la bandeja de entrada del Gmail después de 2 horas de envío de CVs:
 
 A la mañana siguiente, seguí enviando CVs. Casi 2.000 CVs enviados a Infojobs:
 
-![Casi 2.000 CVs enviados a Infojobs en menos de 24h](Envío de CVs a Infojobs.png)
+![Casi 2.000 CVs enviados a Infojobs en menos de 24h](./Envío-de-CVs-a-Infojobs.png)
 
 ## Conclusión
 
