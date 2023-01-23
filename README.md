@@ -22,8 +22,12 @@ Esta es la bandeja de entrada del Gmail después de 2 horas de envío de CVs:
 
 ![Currículums enviados a Infojobs vistos desde Gmail](./Infojobs-fundido-en-cosa-de-2-horas.png)
 
-También hice un vídeo, de unos 45 minutos aproximadamente. Si Github lo acepta *(ocupa 110MB)*, está en `infojobs-envio-cv-masivo.mp4`.
+A la mañana siguiente, seguí enviando CVs. Casi 2.000 CVs enviados a Infojobs:
+
+![Casi 2.000 CVs enviados a Infojobs en menos de 24h](Envío de CVs a Infojobs.png)
 
 ## Conclusión
 
 No dan. Simplemente, no dan. Prefieren tener gente loca. Entre la Ley y el Libre Mercado, estoy en pelotas.
+
+Bueno, la conclusión no es esa exactamente. La conclusión es que sois robots, y ahora lo sabemos todos.
